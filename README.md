@@ -1,0 +1,1 @@
+# geoserver-basic-csw-config
