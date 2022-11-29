@@ -1,6 +1,8 @@
 # Basic GeoServer configuration sample for OGC-CSV support:
 This brief document should provide a minimum configuration example of GeoServer to enable Harvesting of services to external metadata catalogues.
 
+***Tested with GeoServer v2.22, Windows 10 and GeoNetwork v4.2.1***
+
 ### ***Requirements***:
 * An instance of GeoServer with existing layers
 * An instance of GeoNetwork
