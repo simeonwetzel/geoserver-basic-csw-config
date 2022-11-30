@@ -21,12 +21,12 @@ Follow the installation instructions of the [documentation](https://docs.geoserv
 **Please note**: the provided plugin download link is broken. Instead, search for the extension [here](https://geoserver.org/download/)
 
 ## (2) Installation of the ISO Metadata Profile community module:
-Download and install the `geoserver-{version}-M0-csw-iso-plugin.zip` extension [here](https://sourceforge.net/projects/geoserver/files/GeoServer/)
+Accordingly to the previous installation, download and install the `geoserver-{version}-M0-csw-iso-plugin.zip` extension [here](https://sourceforge.net/projects/geoserver/files/GeoServer/)
 
 The installation should create a directory **./csw** in the data folder (in Windows usually: ***C:\ProgramData\GeoServer\csw***)
 
 ## (3) Installation of the GeoServer Metadata community module:
-Download and install the `geoserver-{version}-metadata-plugin.zip` extension for your GeoServer version [here](https://sourceforge.net/projects/geoserver/files/GeoServer/)
+Accordingly to the previous installation, download and install the `geoserver-{version}-metadata-plugin.zip` extension for your GeoServer version [here](https://sourceforge.net/projects/geoserver/files/GeoServer/)
 
 The installation should create a directory **./metadata** in the data folder (in Windows usually: ***C:\ProgramData\GeoServer\metadata***)
 
