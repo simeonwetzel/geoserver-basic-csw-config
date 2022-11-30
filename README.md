@@ -18,7 +18,7 @@ This brief document should provide a minimum configuration example of GeoServer 
 ## (1) Installation of the GeoServer CSW extension:
 Follow the installation instructions of the [documentation](https://docs.geoserver.org/stable/en/user/services/csw/installing.html).
 
-**Please note**: the provided plugin download link is broken. Instead, search for the extension [here](https://geoserver.org/release/)
+**Please note**: the provided plugin download link is broken. Instead, search for the extension [here](https://geoserver.org/download/)
 
 ## (2) Installation of the ISO Metadata Profile community module:
 Download and install the `geoserver-{version}-M0-csw-iso-plugin.zip` extension [here](https://sourceforge.net/projects/geoserver/files/GeoServer/)
